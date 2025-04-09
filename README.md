@@ -21,6 +21,6 @@ Dostępne są cztery fundamenty (stack), na które można przenosić karty zgodn
 4 stosy końcowe (fundamenty) – sloty 8–11  
 Talia główna (queue) – slot 0  
 Przykładowy system wpisywania ruchów:  
-> źródło karta cel  
-> 0 Kd 1  
-> 2 10h 4  
+>>źródło karta cel  
+>>0 Kd 1  
+>>2 10h 4  
