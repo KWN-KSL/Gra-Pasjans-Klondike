@@ -16,3 +16,11 @@ Dostępne są cztery fundamenty (stack), na które można przenosić karty zgodn
 * W kolumnach można przenosić karty w kolejności malejącej, naprzemiennie kolorami (np. czerwona 9 → czarny 8).
 * Na puste kolumny można przenieść tylko Króla.
 * Możliwość przeglądania talii i cofania się do początku.
+## 🧠 Obsługa programu:
+7 kolumn (wektory) – numerowane od 1 do 7  
+4 stosy końcowe (fundamenty) – sloty 8–11  
+Talia główna (queue) – slot 0  
+Przykładowy system wpisywania ruchów:  
+>> źródło karta cel  
+>> 0 Kd 1  
+>> 2 10h 4  
